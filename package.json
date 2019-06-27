@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.1",
+    "libsodium-wrappers": "^0.7.4",
+    "node-gyp": "^5.0.0",
+    "node-opus": "^0.3.2",
+    "sodium": "^3.0.2",
+    "uws": "^100.0.1",
+    "windows-build-tools": "^5.1.0"
+  }
+}
