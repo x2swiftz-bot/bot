@@ -1,2 +1,0 @@
-# Bot
-Hosting on Heroku!
